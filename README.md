@@ -1,4 +1,4 @@
-# P4-Kataran
+# P4-Katran
 
 ```bash
 p4c-ebpf --arch psa -o OUTPUT.c test.p4
